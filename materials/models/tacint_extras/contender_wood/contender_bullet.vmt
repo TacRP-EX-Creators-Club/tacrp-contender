@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+    "$basetexture"				"models/tacint_extras/contender_wood/w_pi_singleshot_bullet_dm"
+    "$bumpmap"					"models/tacint_extras/contender_wood/w_pi_singleshot_bullet_nm"
+
+    "$color2" "[2 2 2]"
+}

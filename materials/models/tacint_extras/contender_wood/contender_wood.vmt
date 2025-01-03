@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+    "$basetexture"				"models/tacint_extras/contender_wood/w_pi_singleshot_dm"
+    "$bumpmap"					"models/tacint_extras/contender_wood/w_pi_singleshot_nm"
+    "$envmapmask"				"models/tacint_extras/contender_wood/w_pi_singleshot_sm"
+    "$envmap"				"env_cubemap"
+    "$normalmapalphaenvmapmask" "1"
+
+    "$color2" "[0.6 0.6 0.6]"
+
+    "$phong"	"1"
+    "$phongexponent"	"50"
+    "$phongalbedotint"	"1"
+    "$phongboost"	"0.5"
+    "$phongfresnelranges"	"[0 1 2]"
+    "$phongdisablehalflambert"  "0"
+
+    "$halflambert"                 "1"
+    "$nodecal"                     "0"
+    "$ambientocclusion"         "1"
+}
